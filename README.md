@@ -1,2 +1,25 @@
-# 875d1e10-gaming-esports-pricing-calcu
-The gaming esports tool you'd build yourself — if you had the time.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Gaming &amp; Esports Pricing Calculator And Quote Builder — fully configured and ready to use - Fully editable: all fields, colors, and sec
+# Gaming & Esports Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU4gz26HbUE4pq9rKcZM1Y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU4gz26HbUE4pq9rKcZM1Y)
+
